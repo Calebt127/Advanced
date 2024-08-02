@@ -2,4 +2,4 @@ matplotlib
 numpy
 pandas
 streamlit
-googleapiclient.discovery
+google-api-python-client
